@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Machine Learning on Ram&#39;s Website</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced RISC Machines</title>
+      <link>http://localhost:1313/posts/2024-08-21-arm-processors/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-21-arm-processors/</guid>
+      <description>A Descriptive post on ARM based processors risk, benifits and future.</description>
+    </item>
+    <item>
+      <title>Running LLaMA 3.1 Locally with Ollama: A Step-by-Step process</title>
+      <link>http://localhost:1313/posts/2024-08-20-running-llama3.1-locally-on-your-system/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-20-running-llama3.1-locally-on-your-system/</guid>
+      <description>A comprehensive guide to running Meta’s LLaMA 3.1 locally using Ollama, covering installation, setup, and fine-tuning.</description>
+    </item>
+    <item>
+      <title>Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)</title>
+      <link>http://localhost:1313/posts/2024-07-29-ann-cnn/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-29-ann-cnn/</guid>
+      <description>A detailed exploration of Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs), their structures, functionalities, and applications.</description>
+    </item>
+    <item>
+      <title>Zero Knowledge Protocols (ZK)</title>
+      <link>http://localhost:1313/posts/2024-07-15-advancements-of-ai-through-digital-innovation/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-15-advancements-of-ai-through-digital-innovation/</guid>
+      <description>Understanding Zero-Knowledge Protocols</description>
+    </item>
+    <item>
+      <title>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for and secure record of ad impressions and clicks.</title>
+      <link>http://localhost:1313/posts/2023-06-07-ai-gpt-blockchain-in-digital-marketing/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-06-07-ai-gpt-blockchain-in-digital-marketing/</guid>
+      <description>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for a Cutting-Edge Strategy.</description>
+    </item>
+    <item>
+      <title>Designing Your Own Language Model with DeepFloyd AI</title>
+      <link>http://localhost:1313/posts/2023-05-18-create-your-own-ai-language-model/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-18-create-your-own-ai-language-model/</guid>
+      <description>DeepFloyd AI, a state-of-the-art machine learning platform, simplifies the process of building your own language model. This post outlines the steps involved, from data preparation and model selection to training, evaluation, and deployment.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/security/</link>
+    <description>Recent content in Security on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSMON: Revolutionizing JavaScript Security Monitoring</title>
+      <link>http://localhost:1313/posts/2024-09-20-jsmon-sh/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-20-jsmon-sh/</guid>
+      <description>An in-depth look at JSMON, a comprehensive JavaScript security monitoring platform for security enthusiasts and enterprises.</description>
+    </item>
+    <item>
+      <title>Discovering JavaScript Files with JSFinder</title>
+      <link>http://localhost:1313/posts/2024-08-31-jsfinder-standard/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-31-jsfinder-standard/</guid>
+      <description>A detailed guide to JSFinder, a tool for discovering JavaScript files across subdomains, including its features, setup, and advanced usage.</description>
+    </item>
+    <item>
+      <title>Contributions to Open Source Projects</title>
+      <link>http://localhost:1313/posts/2024-07-18-my-security-contributions/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-18-my-security-contributions/</guid>
+      <description>Showcasing contributions to various open source projects</description>
+    </item>
+    <item>
+      <title>Google&#39;s new password less authentication technology</title>
+      <link>http://localhost:1313/posts/2022-10-12-google-rolling-new-passwordless-authentication/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-10-12-google-rolling-new-passwordless-authentication/</guid>
+      <description>&lt;h1 id=&#34;google-rolling-out-passkey-passwordless-login-support-to-android-and-chrome&#34;&gt;Google Rolling Out Passkey Passwordless Login Support to Android and Chrome&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEigP4kNVXusoxtj-wk5GeI6xhh35bNbr78UBQVPz7STpEiye2petx9nDDVo87pS3J2OxNVyc8TC1rLUdSAT1V2z_xiawBgUsUlmqXSDCAH038SrP2Mo-hDfQlwp8luJShPB9P3PIzsNfStKo7PgGUTCDsODElL0TFKu1ZJQAJ3AZHiwR0BrSCNWm0jx/s728-e1000/login.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Google on Wednesday officially rolled out support for passkeys, the next-generation authentication standard, to both Android and Chrome.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Passkeys are a significantly safer replacement for passwords and other phishable authentication factors,&amp;rdquo; the tech giant said. &amp;ldquo;They cannot be reused, don&amp;rsquo;t leak in server breaches, and protect users from phishing attacks.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;To that end, creating a passkey requires confirmation from the end-user about the account that will be used to log in to the online service, followed by using their biometric information or the device passcode.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

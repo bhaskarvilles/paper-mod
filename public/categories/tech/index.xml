@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/tech/</link>
+    <description>Recent content in Tech on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Filecoin EVM (FEVM) is the Ethereum Virtual Machine (EVM) virtualized as a runtime on top of the Filecoin Virtual Machine (FVM). Before understanding the FEVM you must be familiar with the regular EVM.</title>
+      <link>http://localhost:1313/posts/2023-01-20-fvm/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-20-fvm/</guid>
+      <description>&lt;h2 id=&#34;whats-it-for&#34;&gt;What&amp;rsquo;s it for&lt;/h2&gt;
+&lt;p&gt;The FVM enables developers to build many new use cases on top of and with the Filecoin network.&lt;/p&gt;
+&lt;h3 id=&#34;data-access-control&#34;&gt;Data access control&lt;/h3&gt;
+&lt;p&gt;One advantage centralized storage solutions have over web3 services is that they can limit individual data access.&lt;/p&gt;
+&lt;p&gt;The FVM enables Filecoin network participants to do the same. Threshold encryption networks, like Medusa, can individually or programmatically govern who can access a data collection without any contracts or validators having access to the data themselves.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DAOs and the Future of Decentralization - Insights from Bhaskar Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum</title>
+      <link>http://localhost:1313/posts/2023-01-16-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-16-daos-are-not-corporations-where-decentralization-in-autonomous-organizations-matters/</guid>
+      <description>&lt;h3 id=&#34;daos-and-the-future-of-decentralization---insights-from-bhaskar---developer-ethglobal-fellow-and-vitalik-buterin-the-founder-of-ethereum&#34;&gt;DAOs and the Future of Decentralization - Insights from Bhaskar - Developer, ETHGlobal Fellow, and Vitalik Buterin, the founder of Ethereum.&lt;/h3&gt;
+&lt;p&gt;Decentralized Autonomous Organizations (DAOs) are digital entities that operate on blockchain technology, and they have been gaining a lot of attention in recent years. Unlike traditional corporations, DAOs are decentralized, meaning that they operate on a consensus-based system where all members have an equal say in decision-making. This is where the term &amp;ldquo;autonomous&amp;rdquo; comes in, as DAOs are able to operate independently without the need for intermediaries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google&#39;s new password less authentication technology</title>
+      <link>http://localhost:1313/posts/2022-10-12-google-rolling-new-passwordless-authentication/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-10-12-google-rolling-new-passwordless-authentication/</guid>
+      <description>&lt;h1 id=&#34;google-rolling-out-passkey-passwordless-login-support-to-android-and-chrome&#34;&gt;Google Rolling Out Passkey Passwordless Login Support to Android and Chrome&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEigP4kNVXusoxtj-wk5GeI6xhh35bNbr78UBQVPz7STpEiye2petx9nDDVo87pS3J2OxNVyc8TC1rLUdSAT1V2z_xiawBgUsUlmqXSDCAH038SrP2Mo-hDfQlwp8luJShPB9P3PIzsNfStKo7PgGUTCDsODElL0TFKu1ZJQAJ3AZHiwR0BrSCNWm0jx/s728-e1000/login.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Google on Wednesday officially rolled out support for passkeys, the next-generation authentication standard, to both Android and Chrome.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Passkeys are a significantly safer replacement for passwords and other phishable authentication factors,&amp;rdquo; the tech giant said. &amp;ldquo;They cannot be reused, don&amp;rsquo;t leak in server breaches, and protect users from phishing attacks.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;To that end, creating a passkey requires confirmation from the end-user about the account that will be used to log in to the online service, followed by using their biometric information or the device passcode.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

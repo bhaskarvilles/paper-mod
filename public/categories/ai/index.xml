@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/ai/</link>
+    <description>Recent content in AI on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dark Side of AI in Call Summarization: Privacy, Personalization</title>
+      <link>http://localhost:1313/posts/2024-08-29-the-dark-side-of-ai-calls-summary/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-29-the-dark-side-of-ai-calls-summary/</guid>
+      <description>An in-depth analysis of the dark side of call summarization AIs, focusing on privacy concerns, data usage, and ethical implications.</description>
+    </item>
+    <item>
+      <title>Advanced RISC Machines</title>
+      <link>http://localhost:1313/posts/2024-08-21-arm-processors/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-21-arm-processors/</guid>
+      <description>A Descriptive post on ARM based processors risk, benifits and future.</description>
+    </item>
+    <item>
+      <title>Running LLaMA 3.1 Locally with Ollama: A Step-by-Step process</title>
+      <link>http://localhost:1313/posts/2024-08-20-running-llama3.1-locally-on-your-system/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-08-20-running-llama3.1-locally-on-your-system/</guid>
+      <description>A comprehensive guide to running Meta’s LLaMA 3.1 locally using Ollama, covering installation, setup, and fine-tuning.</description>
+    </item>
+    <item>
+      <title>Understanding Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs)</title>
+      <link>http://localhost:1313/posts/2024-07-29-ann-cnn/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-29-ann-cnn/</guid>
+      <description>A detailed exploration of Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs), their structures, functionalities, and applications.</description>
+    </item>
+    <item>
+      <title>Zero Knowledge Protocols (ZK)</title>
+      <link>http://localhost:1313/posts/2024-07-15-advancements-of-ai-through-digital-innovation/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-07-15-advancements-of-ai-through-digital-innovation/</guid>
+      <description>Understanding Zero-Knowledge Protocols</description>
+    </item>
+    <item>
+      <title>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for and secure record of ad impressions and clicks.</title>
+      <link>http://localhost:1313/posts/2023-06-07-ai-gpt-blockchain-in-digital-marketing/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-06-07-ai-gpt-blockchain-in-digital-marketing/</guid>
+      <description>Advanced Digital Marketing: Integrating AI, GPTs, and Blockchain Technologies for a Cutting-Edge Strategy.</description>
+    </item>
+    <item>
+      <title>Designing Your Own Language Model with DeepFloyd AI</title>
+      <link>http://localhost:1313/posts/2023-05-18-create-your-own-ai-language-model/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-18-create-your-own-ai-language-model/</guid>
+      <description>DeepFloyd AI, a state-of-the-art machine learning platform, simplifies the process of building your own language model. This post outlines the steps involved, from data preparation and model selection to training, evaluation, and deployment.</description>
+    </item>
+    <item>
+      <title>Google Bard: A Large Language Model Chatbot</title>
+      <link>http://localhost:1313/posts/2023-05-16-google-bard/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-16-google-bard/</guid>
+      <description>Google Bard is a large language model chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.</description>
+    </item>
+    <item>
+      <title>ChatGPT vs. Humans: Delving Deeper into Technical and Brain Intelligence Aspects</title>
+      <link>http://localhost:1313/posts/2023-05-07-ai-and-human-intelligence/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-07-ai-and-human-intelligence/</guid>
+      <description>ChatGPT vs. Humans: Delving Deeper into Technical and Brain Intelligence Aspects</description>
+    </item>
+    <item>
+      <title>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</title>
+      <link>http://localhost:1313/posts/2023-05-04-deepfloyid-if/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-04-deepfloyid-if/</guid>
+      <description>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</description>
+    </item>
+    <item>
+      <title>The Evolution of AI: Introducing GPT-3.5 With Live Browsing</title>
+      <link>http://localhost:1313/posts/2023-04-26-chat-gpt-with-browsing/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-04-26-chat-gpt-with-browsing/</guid>
+      <description>The Evolution of AI: Introducing GPT-3.5 With Live Browsing. The Next Frontier in Language Models - Accessing Real-time Information</description>
+    </item>
+    <item>
+      <title>Implantable Brain Machines: The Future of Human-Computer Interaction</title>
+      <link>http://localhost:1313/posts/2023-04-24-ibms/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-04-24-ibms/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;As technology continues to advance at an unprecedented rate, one area that has garnered significant interest is implantable brain machines. These devices have the potential to revolutionize the way we interact with computers, offering new possibilities in communication, education, and even healthcare. In this blog post, we will delve into the world of implantable brain machines, exploring their potential uses, benefits, and the ethical concerns surrounding their implementation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://mindmatters.ai/wp-content/uploads/sites/2/2021/05/human-brain-with-an-implanted-chip-stockpack-adobe-stock-scaled.jpg&#34; alt=&#34;Neural Brain&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Rise of ZK-EVMs: How Ethereum&#39;s Multi-Client Philosophy Enables Continued Decentralization</title>
+      <link>http://localhost:1313/posts/2023-04-10-how-ethereum-makes-decentralization-possible/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-04-10-how-ethereum-makes-decentralization-possible/</guid>
+      <description>&lt;h2 id=&#34;my-thoughts-on-evms-multi-client-repository&#34;&gt;My thoughts on EVMs Multi Client repository&lt;/h2&gt;
+&lt;p&gt;One important aspect of Ethereum&amp;rsquo;s security and decentralization is its multi-client philosophy. Instead of relying on a single reference client, Ethereum has a specification written in Python and multiple independent implementations of the spec called clients. Each node runs a consensus client to validate blocks and an execution client to check state transitions. Currently, no single client makes up more than two-thirds of either category. This ensures that bugs in any one client will not cripple the network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advanced SEO with AI: How Machine Learning and Natural Language Processing Are Changing the Game</title>
+      <link>http://localhost:1313/posts/2023-03-07-advanced-seo-with-ai/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-03-07-advanced-seo-with-ai/</guid>
+      <description>&lt;p&gt;Search engine optimization (SEO) is the process of optimizing your website to rank higher in search engine results pages (SERPs). While the basic principles of SEO remain the same, the advent of artificial intelligence (AI) is changing the game. AI-powered SEO tools are now available that use machine learning and natural language processing (NLP) to help businesses improve their search engine rankings and increase traffic to their websites.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.weetechsolution.com/wp-content/uploads/2022/09/Artificial-Intelligence-in-SEO.jpg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Layer 1 for Artificial Intelligence</title>
+      <link>http://localhost:1313/posts/2023-03-03-layer-1-for-artificial-intelligence/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-03-03-layer-1-for-artificial-intelligence/</guid>
+      <description>&lt;h1 id=&#34;layer-1-for-artificial-intelligence&#34;&gt;Layer 1 for Artificial Intelligence&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://openfabric.ai/media/2023/01/AI_NFts.png&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;exploring-the-importance-of-ai-generated-images-in-the-metaverse&#34;&gt;Exploring the Importance of AI-Generated Images in the Metaverse&lt;/h2&gt;
+&lt;p&gt;The metaverse, a virtual world where users interact with one another and digital objects in a shared environment, is rapidly becoming a reality. As technology continues to advance, the ability to create realistic and immersive virtual experiences is becoming increasingly important. One of the key components of this is the use of AI-generated images as inputs. These images play a crucial role in creating detailed, realistic environments, characters, and objects that enhance the user experience in the metaverse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI and ChatGPT</title>
+      <link>http://localhost:1313/posts/2022-12-21-chat-gpt/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-12-21-chat-gpt/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-openai&#34;&gt;Introduction to OpenAI:&lt;/h2&gt;
+&lt;p&gt;OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;overview-of-chatgpt&#34;&gt;Overview of ChatGPT:&lt;/h2&gt;
+&lt;p&gt;ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems. ChatGPT is trained on a large dataset of human conversations and can generate responses to a wide range of prompts, including open-ended questions and prompts that require the model to provide information or perform a specific task.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

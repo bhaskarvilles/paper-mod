@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ethereum 2.0 on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/ethereum-2.0/</link>
+    <description>Recent content in Ethereum 2.0 on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2022 10:18:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ethereum-2.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethereum 2.0 Merging</title>
+      <link>http://localhost:1313/posts/2022-09-21-ethereum-2-0/</link>
+      <pubDate>Wed, 21 Sep 2022 10:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-09-21-ethereum-2-0/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ethereum is moving to proof-of-stake! The transition, known as The Merge, must first be activated on the Beacon Chain with the Bellatrix upgrade. After this, the proof-of-work chain will migrate to proof-of-stake upon hitting a specific Total Difficulty value.&lt;/li&gt;
+&lt;li&gt;The Bellatrix upgrade is scheduled for epoch 144896 on the Beacon Chain &amp;ndash; 11:34:47am UTC on Sept 6, 2022.&lt;/li&gt;
+&lt;li&gt;The Terminal Total Difficulty value triggering The Merge is 58750000000000000000000, expected between Sept 10-20, 2022.&lt;/li&gt;
+&lt;li&gt;Note: as announced earlier, the Kiln testnet is being sunset. Operators will shut down on September 6, 2022.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/bhaskarvilles/chirpy-images/8b6e67b1083da49817878039a3d040194fbdbebd/commons/https___storage.googleap_ethereum.jpeg&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

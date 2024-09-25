@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Red Hat on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/red-hat/</link>
+    <description>Recent content in Red Hat on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Sep 2022 10:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/red-hat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital transformation - 4 key building blocks</title>
+      <link>http://localhost:1313/posts/2021-01-10-digital-transformation/</link>
+      <pubDate>Tue, 06 Sep 2022 10:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021-01-10-digital-transformation/</guid>
+      <description>&lt;h2 id=&#34;here-are-four-foundational-elements-on-which-to-build-your-digital-transformation-strategy--plus-a-few-barriers-to-avoid&#34;&gt;Here are four foundational elements on which to build your digital transformation strategy – plus a few barriers to avoid&lt;/h2&gt;
+&lt;p&gt;Digital transformation isn’t just about building great websites and mobile applications. It isn’t simply about providing a better user experience. While these are certainly critical enablers for success, truly reimagining how a business operates to thrive in a digital world requires much more – and skipping or failing to prioritize the “more” is where many organizations fall short of meeting their digital transformation goals.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenAI on Ram&#39;s Website</title>
+    <link>http://localhost:1313/categories/openai/</link>
+    <description>Recent content in OpenAI on Ram&#39;s Website</description>
+    <image>
+      <title>Ram&#39;s Website</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Core of OpenAI o1</title>
+      <link>http://localhost:1313/posts/2024-09-12-openai-o1-preview/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-09-12-openai-o1-preview/</guid>
+      <description>Introducing OpenAI o1: A New Frontier in AI Reasoning</description>
+    </item>
+    <item>
+      <title>Google Bard: A Large Language Model Chatbot</title>
+      <link>http://localhost:1313/posts/2023-05-16-google-bard/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-16-google-bard/</guid>
+      <description>Google Bard is a large language model chatbot developed by Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.</description>
+    </item>
+    <item>
+      <title>ChatGPT vs. Humans: Delving Deeper into Technical and Brain Intelligence Aspects</title>
+      <link>http://localhost:1313/posts/2023-05-07-ai-and-human-intelligence/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-07-ai-and-human-intelligence/</guid>
+      <description>ChatGPT vs. Humans: Delving Deeper into Technical and Brain Intelligence Aspects</description>
+    </item>
+    <item>
+      <title>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</title>
+      <link>http://localhost:1313/posts/2023-05-04-deepfloyid-if/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-04-deepfloyid-if/</guid>
+      <description>DeepFloyd-IF: A Pixel-Based Triple-Cascaded Diffusion Model for Photorealistic Text-to-Image Generation</description>
+    </item>
+    <item>
+      <title>The Evolution of AI: Introducing GPT-3.5 With Live Browsing</title>
+      <link>http://localhost:1313/posts/2023-04-26-chat-gpt-with-browsing/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-04-26-chat-gpt-with-browsing/</guid>
+      <description>The Evolution of AI: Introducing GPT-3.5 With Live Browsing. The Next Frontier in Language Models - Accessing Real-time Information</description>
+    </item>
+    <item>
+      <title>OpenAI and ChatGPT</title>
+      <link>http://localhost:1313/posts/2022-12-21-chat-gpt/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2022-12-21-chat-gpt/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-openai&#34;&gt;Introduction to OpenAI:&lt;/h2&gt;
+&lt;p&gt;OpenAI is a research organization that focuses on developing and promoting friendly artificial intelligence. It was founded in 2015 by a group of entrepreneurs, researchers, and philanthropists who wanted to ensure that AI could be aligned with human values and would be used for the benefit of all humanity.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png&#34; alt=&#34;alt&#34;  /&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;overview-of-chatgpt&#34;&gt;Overview of ChatGPT:&lt;/h2&gt;
+&lt;p&gt;ChatGPT is a variant of the GPT (Generative Pre-training Transformer) language model developed by OpenAI. It is designed to generate human-like text in a conversational style, making it well-suited for tasks such as chatbots, dialog systems, and question answering systems. ChatGPT is trained on a large dataset of human conversations and can generate responses to a wide range of prompts, including open-ended questions and prompts that require the model to provide information or perform a specific task.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
